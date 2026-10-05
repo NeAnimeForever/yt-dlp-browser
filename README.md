@@ -21,7 +21,7 @@ The browser extension is only the UI and messaging layer. A local native helper 
 
 GitHub-only distribution uses Chrome's unpacked extension mode and Native Messaging.
 
-1. Download the latest Windows release from **[Releases](.............)** and extract it.
+1. Download the latest Windows release from **[Releases](https://github.com/NeAnimeForever/yt-dlp-browser/releases/download/v0.3.6/yt-dlp-browser-v0.3.6-windows.zip)** and extract it.
 2. Open `chrome://extensions` in Chrome.
 3. Enable **Developer mode**.
 4. Click **Load unpacked** and select the extracted `extension` folder.
